@@ -1,0 +1,5 @@
+            $this->output("removed $fileNo of $numberOfFilesToDelete {$file}");
+            $this->output("removed $fileNo of $numberOfFilesToDelete {$file}");
+            $this->output("removed $fileNo of $numberOfFilesToDelete {$file}");
+            $this->output("removed $fileNo of $numberOfFilesToDelete {$file}");
+            $this->output("removed $fileNo of $numberOfFilesToDelete {$file}");

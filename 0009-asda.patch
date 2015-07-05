@@ -1,0 +1,51 @@
+From d0db5ba7a87af1a67c2bf3fb5ec169231fb22cd9 Mon Sep 17 00:00:00 2001
+From: craftpip <bonifacepereira@gmail.com>
+Date: Sat, 20 Jun 2015 22:46:52 +0530
+Subject: [PATCH 09/12] asda
+
+---
+ else - Copy (3) - Copy.txt | 1 -
+ else - Copy (3).txt        | 1 -
+ else - Copy (4) - Copy.txt | 1 -
+ else - Copy (5) - Copy.txt | 1 -
+ 4 files changed, 4 deletions(-)
+ delete mode 100644 else - Copy (3) - Copy.txt
+ delete mode 100644 else - Copy (3).txt
+ delete mode 100644 else - Copy (4) - Copy.txt
+ delete mode 100644 else - Copy (5) - Copy.txt
+
+diff --git a/else - Copy (3) - Copy.txt b/else - Copy (3) - Copy.txt
+deleted file mode 100644
+index 56599cc..0000000
+--- a/else - Copy (3) - Copy.txt	
++++ /dev/null
+@@ -1 +0,0 @@
+-somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+\ No newline at end of file
+diff --git a/else - Copy (3).txt b/else - Copy (3).txt
+deleted file mode 100644
+index 56599cc..0000000
+--- a/else - Copy (3).txt	
++++ /dev/null
+@@ -1 +0,0 @@
+-somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+\ No newline at end of file
+diff --git a/else - Copy (4) - Copy.txt b/else - Copy (4) - Copy.txt
+deleted file mode 100644
+index 56599cc..0000000
+--- a/else - Copy (4) - Copy.txt	
++++ /dev/null
+@@ -1 +0,0 @@
+-somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+\ No newline at end of file
+diff --git a/else - Copy (5) - Copy.txt b/else - Copy (5) - Copy.txt
+deleted file mode 100644
+index 56599cc..0000000
+--- a/else - Copy (5) - Copy.txt	
++++ /dev/null
+@@ -1 +0,0 @@
+-somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+\ No newline at end of file
+-- 
+1.9.5.msysgit.1
+
